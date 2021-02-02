@@ -1,4 +1,4 @@
-package com.iteheima.ListToFileDemo;
+package IO.ListToFileDemo;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.iteheima.ListToFileDemo2;
+package IO.ListToFileDemo2;
 
 public class Student {
     private String name;

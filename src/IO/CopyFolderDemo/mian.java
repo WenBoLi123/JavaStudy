@@ -1,7 +1,6 @@
-package com.iteheima.CopyFolderDemo;
+package IO.CopyFolderDemo;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class mian {

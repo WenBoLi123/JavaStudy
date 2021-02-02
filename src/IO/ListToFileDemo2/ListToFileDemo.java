@@ -1,7 +1,4 @@
-package com.iteheima.ListToFileDemo2;
-
-import java.util.Comparator;
-import java.util.TreeSet;
+package IO.ListToFileDemo2;
 
 /*
  *    需求：键盘录入5个学生信息(姓名，语文成绩，数据成绩，英语成绩)。需求按照成绩总分从高到低写入文件

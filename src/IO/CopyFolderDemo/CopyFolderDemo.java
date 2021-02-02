@@ -1,4 +1,4 @@
-package com.iteheima.CopyFolderDemo;
+package IO.CopyFolderDemo;
 
 import java.io.*;
 

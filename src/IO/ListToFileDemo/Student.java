@@ -1,4 +1,4 @@
-package com.iteheima.ListToFileDemo;
+package IO.ListToFileDemo;
 
 public class Student {
     private String sid;

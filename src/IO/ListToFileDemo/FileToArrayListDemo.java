@@ -1,4 +1,4 @@
-package com.iteheima.ListToFileDemo;
+package IO.ListToFileDemo;
 /*需求：把文件中的数据读取到集合中，并遍历集合。需求：文件中每一行数据是一个学生对象的成员变量值
  *    思路
  *        1.定义学生类

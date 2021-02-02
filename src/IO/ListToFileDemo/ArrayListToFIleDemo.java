@@ -1,4 +1,4 @@
-package com.iteheima.ListToFileDemo;
+package IO.ListToFileDemo;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
